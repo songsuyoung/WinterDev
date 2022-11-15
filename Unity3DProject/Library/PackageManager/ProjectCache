@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638040114940000000
-    m_Hash: 3979996139
+      ticks: 638041080940000000
+    m_Hash: 3693497500
   m_LockFileStatus:
     m_FilePath: /Users/songsuyeong/Desktop/GameDevelopment/Unity3DProject/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638040114980000000
-    m_Hash: 3809199474
+      ticks: 638041080940000000
+    m_Hash: 1350996409
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -536,6 +536,7 @@ m_ResolvedPackages:
     - 1.1.33
     - 1.3.0
     - 2.0.1-exp.1
+    - 2.0.1-exp.2
     - 2.0.1-pre.12
     - 2.0.1-pre.18
     compatible:
@@ -543,6 +544,7 @@ m_ResolvedPackages:
     - 1.1.33
     - 1.3.0
     - 2.0.1-exp.1
+    - 2.0.1-exp.2
     - 2.0.1-pre.12
     - 2.0.1-pre.18
     verified: 1.1.33
